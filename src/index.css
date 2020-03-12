@@ -1,0 +1,11 @@
+* {
+  user-select: none;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+*:focus {
+  outline: none;
+}
